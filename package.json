@@ -1,0 +1,30 @@
+{
+  "name": "squadbuyer",
+  "version": "1.0.0",
+  "description": "Save money by buying in strength of numbers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxb415/Squadbuyer.git"
+  },
+  "author": "We are awesome people",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gxb415/Squadbuyer/issues"
+  },
+  "homepage": "https://github.com/gxb415/Squadbuyer#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {}
+}
